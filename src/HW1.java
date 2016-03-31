@@ -18,11 +18,11 @@ public class HW1 {
 
         // uncomment to use random adding to list
         /*
-        int N = 10;  // n -- quantity of element to generate
+        int N = 10;  // N -- quantity of elements to generate
         Random rand = new Random();
             for (int i=0; i<N; i++) {
                 int nextX = rand.nextInt(100);
-                list.add(new Integer(nextX));
+                list.add(nextX);
 }
         */
 
